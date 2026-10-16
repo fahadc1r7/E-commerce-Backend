@@ -14,10 +14,10 @@ app.use(express.json());
 
 app.get("/", (req, res) => res.json({ message: "E-commerce API running" }));
 
-// Uncomment each line as you build that module
+
 // app.use("/api/auth", require("./routes/authenticationRoutes"));
 // app.use("/api/users", require("./routes/userProfileRoutes"));
-// app.use("/api/products", require("./routes/productRoutes"));
+app.use("/api/products", require("./routes/productRoutes"));
 // app.use("/api/orders", require("./routes/orderRoutes"));
 // app.use("/api/analytics", require("./routes/analyticsRoutes"));
 
