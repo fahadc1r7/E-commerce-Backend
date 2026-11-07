@@ -2,7 +2,7 @@
 
 A secure REST API for an online store, built with **Node.js, Express and MongoDB**. It covers JWT authentication, role-based access control (RBAC), CRUD for products, orders and user profiles, product search/filter/sort, and a **RapidMiner-powered product recommendation system**.
 
-- **Live API:** `<paste your Render URL here>`
+- **Live API:** `https://e-commerce-backend-9mc3.onrender.com/`
 - **Repository:** https://github.com/fahadc1r7/E-commerce-Backend
 
 ---
