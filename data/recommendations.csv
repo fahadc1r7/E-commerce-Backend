@@ -1,3 +1,11 @@
-   userId,productId,rank
-   6ad1ff19b7ec50e236e70db4,6ad1ff19b7ec50e236e70db0,1
-   6ad1ff19b7ec50e236e70db4,6ad1ff19b7ec50e236e70daf,2
+userId,productId,rank
+6ad1f684e44c93e1474cde5f,6ad1ff18b7ec50e236e70dad,1
+6ad1ff19b7ec50e236e70db4,6ad1ff19b7ec50e236e70daf,1
+6ad1ff19b7ec50e236e70db4,6ad1ff19b7ec50e236e70db0,2
+6ad1ff1ab7ec50e236e70db6,6ad1ff18b7ec50e236e70dae,1
+6ad1ff1ab7ec50e236e70db6,6ad1ff19b7ec50e236e70db1,2
+6ad1ff1ab7ec50e236e70db6,6ad1ff19b7ec50e236e70db3,3
+6ad1ff1ab7ec50e236e70db8,6ad1faff753b9ccdc7155815,1
+6ad1ff1bb7ec50e236e70dbc,6ad1faff753b9ccdc7155815,1
+6ad1ff1bb7ec50e236e70dbc,6ad1ff18b7ec50e236e70dad,2
+6ad1ff1bb7ec50e236e70dbc,6ad1ff19b7ec50e236e70db2,3
